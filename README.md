@@ -14,5 +14,4 @@ An interactive dashboard that analyzes product sales, top products, and category
 - Top Selling Items Identified by Sales
   
 ## 📷 Screeshots
-
-
+https://github.com/the-yashvaishnav/Blinkit-Product-Analysis-Dashboard/blob/main/Blinkit%20Product%20Analysis%20Dashboard.png
